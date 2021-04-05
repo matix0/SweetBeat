@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: b6d2da2f4bf4c6c4881b34ea14528222
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2167597780489414309
+    second: PNGIX.com_smoke-plume-png_6688861_0
+  - first:
+      213: -4101340203675918557
+    second: PNGIX.com_smoke-plume-png_6688861_1
+  - first:
+      213: -6796738589834055315
+    second: PNGIX.com_smoke-plume-png_6688861_2
+  - first:
+      213: 5499319364052781615
+    second: PNGIX.com_smoke-plume-png_6688861_3
+  - first:
+      213: 4180979415323396858
+    second: PNGIX.com_smoke-plume-png_6688861_4
+  - first:
+      213: 5638514737953837525
+    second: PNGIX.com_smoke-plume-png_6688861_5
+  - first:
+      213: -5716833969709500318
+    second: PNGIX.com_smoke-plume-png_6688861_6
+  - first:
+      213: -1794181321781116452
+    second: PNGIX.com_smoke-plume-png_6688861_7
+  - first:
+      213: -6795816368656647363
+    second: PNGIX.com_smoke-plume-png_6688861_8
+  - first:
+      213: 5336477566105940082
+    second: PNGIX.com_smoke-plume-png_6688861_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PNGIX.com_smoke-plume-png_6688861_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1660
+        width: 238
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59d0069d452be1e0800000000000000
+      internalID: -2167597780489414309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNGIX.com_smoke-plume-png_6688861_1
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1582
+        width: 388
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f5ed880dc1517c0800000000000000
+      internalID: -4101340203675918557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNGIX.com_smoke-plume-png_6688861_2
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1548
+        width: 434
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6170c163422da1a0800000000000000
+      internalID: -6796738589834055315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNGIX.com_smoke-plume-png_6688861_3
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1031
+        width: 415
+        height: 431
+      alignment: 9
+      pivot: {x: 0.4878812, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a0bc033d1815c40800000000000000
+      internalID: 5499319364052781615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNGIX.com_smoke-plume-png_6688861_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1041
+        width: 436
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa429f50a2d50a30800000000000000
+      internalID: 4180979415323396858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNGIX.com_smoke-plume-png_6688861_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1109
+        width: 306
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d11b80b747004e40800000000000000
+      internalID: 5638514737953837525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNGIX.com_smoke-plume-png_6688861_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 534
+        width: 434
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268349b2bc9b9a0b0800000000000000
+      internalID: -5716833969709500318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNGIX.com_smoke-plume-png_6688861_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 507
+        width: 411
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd188940899c917e0800000000000000
+      internalID: -1794181321781116452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNGIX.com_smoke-plume-png_6688861_8
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 512
+        width: 423
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b7f6bb40960b1a0800000000000000
+      internalID: -6795816368656647363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNGIX.com_smoke-plume-png_6688861_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 441
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270f59f821afe0a40800000000000000
+      internalID: 5336477566105940082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
